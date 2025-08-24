@@ -17,8 +17,8 @@
 	</organization>
 
 	<properties>
-		<sonar.host.url>http://13.203.205.234:9000/</sonar.host.url>
-                <sonar.token>squ_3ec4eba8b0656f856ff7069b350ea1d8f8e06e2f</sonar.token>
+		<sonar.host.url>http://3.109.56.250:9000/</sonar.host.url>
+                <sonar.token>squ_8452235238b526c3d28f3f958b701cad32a4e96d</sonar.token>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
