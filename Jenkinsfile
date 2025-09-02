@@ -12,7 +12,7 @@ pipeline {
 		stage('sonarqube analysis') {
 			steps {
 				withSonarQubeEnv('sonarqube server') {
-					sh 'mvn sonar:sonar -Dsonar.projectKey=maven-web-application -Dsonar.login=squ_959e3af9bfc0c8b57d945ae9d6628134b14608e2'
+					sh 'mvn sonar:sonar -Dsonar.projectKey=maven-web-application -Dsonar.token=squ_959e3af9bfc0c8b57d945ae9d6628134b14608e2'
 				}
 			}
 		}
