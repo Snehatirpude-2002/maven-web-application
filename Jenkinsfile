@@ -1,5 +1,8 @@
 pipeline {
 	agent any
+	tools {
+		maven 'maven9.10'
+	}
 	stages {
 		stage('build and deploy') {
 			steps { 
