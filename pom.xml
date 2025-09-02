@@ -97,13 +97,13 @@
 	    <repository>
 	        <id>nexus</id>
 	        <name>hosted-maven-repo</name>
-	        <url>http://3.110.217.43:8081/repository/hosted-maven-repo/</url>
+	        <url>http://13.203.231.46:8081/repository/hosted-maven-repo/</url>
 	    </repository>
 		
 	    <snapshotRepository>
 	        <id>nexus</id>
 	        <name>snap-maven-repo</name>
-	        <url>http://3.110.217.43:8081/repository/snap-maven-repo/</url>
+	        <url>http://13.203.231.46:8081/repository/snap-maven-repo/</url>
 	    </snapshotRepository>
 		
 	</distributionManagement>
