@@ -97,7 +97,7 @@
 	    <repository>
 	        <id>nexus</id>
 	        <name>hosted-maven-repo1</name>
-	        <url>http://13.233.126.133:8081/repository/hosted-maven-repo1/</url>
+	        <url>http://13.233.126.13:8081/repository/hosted-maven-repo1/</url>
 	    </repository>
 		
 	    <snapshotRepository>
